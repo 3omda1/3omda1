@@ -15,7 +15,7 @@
 ## 🚀 About Me
 I'm an experienced DevOps/Cloud Engineer with a strong background in building, automating, and optimizing mission-critical deployments over large infrastructure. I have hands-on experience managing cloud-based solutions, CI/CD pipelines, and ensuring systems reliability and scalability.
 
- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+ <img width="40%" height="300px" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
  
 - 👨‍💻 All of my projects are available at [https://github.com/3omda1](https://github.com/3omda1)
 
