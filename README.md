@@ -10,7 +10,8 @@
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3omda1" alt="3omda1" /></a> </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3omda1&label=Profile%20views&color=000000&style=flat" alt="3omda1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3omda1&label=Profile%20views&color=000000&style=flat" alt="3omda1" width="170" />  </p>
+
 ## 🚀 About Me
 I'm an experienced DevOps/Cloud Engineer with a strong background in building, automating, and optimizing mission-critical deployments over large infrastructure. I have hands-on experience managing cloud-based solutions, CI/CD pipelines, and ensuring systems reliability and scalability.
 
