@@ -1,5 +1,3 @@
-![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
-
 <h1 align="center">Welcome to Ahmed EmadEldin Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior-DevOps-Engineer%20;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=%231877F2&vCenter=true&size=30"></a>
@@ -7,10 +5,12 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3omda1&label=Profile%20views&color=000000&style=flat" alt="3omda1" /> </p>
+![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
+
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3omda1" alt="3omda1" /></a> </p> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3omda1&label=Profile%20views&color=000000&style=flat" alt="3omda1" /> </p>
 ## 🚀 About Me
 I'm an experienced DevOps/Cloud Engineer with a strong background in building, automating, and optimizing mission-critical deployments over large infrastructure. I have hands-on experience managing cloud-based solutions, CI/CD pipelines, and ensuring systems reliability and scalability.
 
